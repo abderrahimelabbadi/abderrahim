@@ -1,9 +1,5 @@
-[
- {
-    "id": 1,
-    "name": "mouhamed1",
-    "email": "mouhamed2002@gmail.com",
-    "Type": "CITRATE"
-  }
-
-]
+{
+    "nom": "John",
+    "age": 30,
+    "ville": "Paris"
+}

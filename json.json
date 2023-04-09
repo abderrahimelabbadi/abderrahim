@@ -1,5 +1,9 @@
-{
-    "nom": "John",
-    "age": 30,
-    "ville": "Paris"
-}
+[
+ {
+    "id": 1,
+    "name": "abderrahim el abbadi",
+    "email": "mouhamed2002@gmail.com",
+    "Type": "CITRATE"
+  }
+
+]
